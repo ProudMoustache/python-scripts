@@ -28,11 +28,32 @@ for i in range(30):
     forward(1)
     right(7)
 penup()
+left(160)
+backward(50)
+right(90)
+forward(30)
+color("black","red")
+fill(True)
+pendown()
+for i in range(100):
+    forward(1)
+    right(5)
+fill(False)
+right(90)
+forward(30)
+color("black","red")
+fill(True)
+pendown()
+for i in range(100):
+    forward(1)
+    right(5)
+fill(False)
+
+
 
 
     
 
 done()
-
 
 
