@@ -26,14 +26,13 @@ for i in range(20):
     right(3)
 for i in range(30):
     forward(1)
-    right(4)
+    right(7)
 penup()
 
 
     
 
 done()
-
 
 
 
